@@ -7,3 +7,6 @@ Afazeres - Funções
 >>Lista movimentos possíveis no Paciência Acordeão []
 >>Empilha carta no Paciência Acordeão []
 >>Possui movimentos possiveis no Paciência Acordeão []
+
+
+>>>>>>>>Funciona []
