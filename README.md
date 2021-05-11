@@ -11,4 +11,11 @@ O que já foi feito:
 
 >>>>>>>>Funciona [X]
 >>>>>Embaralhar[X]
->>>>>Cores[]
+>>>>>Cores[X]
+
+
+
+
+
+
+FINALIZADO
