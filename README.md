@@ -10,5 +10,5 @@ O que já foi feito:
 
 
 >>>>>>>>Funciona [X]
->>>>>Embaralhar[]
+>>>>>Embaralhar[X]
 >>>>>Cores[]
